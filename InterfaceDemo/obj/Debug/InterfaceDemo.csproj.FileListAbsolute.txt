@@ -1,0 +1,6 @@
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csprojResolveAssemblyReference.cache
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.pdb
